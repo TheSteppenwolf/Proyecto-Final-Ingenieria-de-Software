@@ -15,7 +15,7 @@
 Julio del 2022
 
 ## Descripción general
-Repositorio del proyecto final de ingeniería de software de la Universidad Católica del Ecuador.
+Repositorio del proyecto final de ingeniería de software de la Universidad Católica del Ecuador. Toda la documentación se puede encontrar dentro de la carpeta "Documentación".
 
 ## Descripción detallada del trabajo
 El proyecto final de Ingeniería de Software pretende poner en práctica todos los conocimientos 
